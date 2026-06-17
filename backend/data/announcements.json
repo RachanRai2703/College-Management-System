@@ -1,0 +1,18 @@
+[
+  {
+    "id": "announce-001",
+    "title": "Semester Starts Monday",
+    "message": "Welcome back to the college! The new semester starts on Monday. Please ensure you are enrolled in all your courses.",
+    "course": "All Courses",
+    "expiresAt": "2024-07-30T23:59:59Z",
+    "postedAt": "2026-06-17T10:00:41.579Z"
+  },
+  {
+    "id": "announce-002",
+    "title": "Library Extended Hours",
+    "message": "The college library will be open until 9 PM during the exam period.",
+    "course": "All Courses",
+    "expiresAt": null,
+    "postedAt": "2026-06-17T10:00:41.579Z"
+  }
+]

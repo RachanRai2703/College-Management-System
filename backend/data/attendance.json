@@ -1,0 +1,170 @@
+[
+  {
+    "id": "attend-0",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-17",
+    "status": "excused",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-1",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-16",
+    "status": "absent",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-2",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-15",
+    "status": "absent",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-3",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-14",
+    "status": "present",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-4",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-13",
+    "status": "excused",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-5",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-12",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-6",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-11",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-7",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-10",
+    "status": "excused",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-8",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-09",
+    "status": "present",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-9",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-08",
+    "status": "present",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-10",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-07",
+    "status": "present",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-11",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-06",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-12",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-05",
+    "status": "absent",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-13",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-04",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-14",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-03",
+    "status": "excused",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-15",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-02",
+    "status": "present",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-16",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-06-01",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-17",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-05-31",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-18",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-05-30",
+    "status": "late",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "attend-19",
+    "studentId": "STU-2024-001",
+    "courseId": "CS-101",
+    "date": "2026-05-29",
+    "status": "excused",
+    "markedAt": "2026-06-17T10:00:41.583Z"
+  },
+  {
+    "id": "g4e8m8a9mqhwvafn",
+    "studentId": "NNM23AM048",
+    "courseId": "CS - 10111",
+    "date": "2026-06-17",
+    "status": "present",
+    "markedAt": "2026-06-17T10:11:23.411Z"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "id": "grade-001",
+    "studentId": "STU-2024-001",
+    "assignmentId": "assign-001",
+    "grade": 85,
+    "feedback": "Good implementation, well structured code",
+    "course": "CS-101",
+    "gradedAt": "2026-06-17T10:00:41.580Z"
+  },
+  {
+    "id": "grade-002",
+    "studentId": "STU-2024-002",
+    "assignmentId": "assign-001",
+    "grade": 92,
+    "feedback": "Excellent work, very clean code with good documentation",
+    "course": "CS-101",
+    "gradedAt": "2026-06-17T10:00:41.580Z"
+  }
+]

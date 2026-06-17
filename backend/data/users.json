@@ -1,0 +1,62 @@
+[
+  {
+    "id": "user-teacher-001",
+    "email": "teacher@college.edu",
+    "password": "password123",
+    "name": "Dr. John Anderson",
+    "role": "teacher",
+    "enrollmentId": "",
+    "department": "Computer Science",
+    "createdAt": "2026-06-17T10:00:41.574Z"
+  },
+  {
+    "id": "user-student-001",
+    "email": "student@college.edu",
+    "password": "password123",
+    "name": "Alice Johnson",
+    "role": "student",
+    "enrollmentId": "STU-2024-001",
+    "department": "Computer Science",
+    "createdAt": "2026-06-17T10:00:41.575Z"
+  },
+  {
+    "id": "user-student-002",
+    "email": "bob@college.edu",
+    "password": "password123",
+    "name": "Bob Smith",
+    "role": "student",
+    "enrollmentId": "STU-2024-002",
+    "department": "Information Technology",
+    "createdAt": "2026-06-17T10:00:41.575Z"
+  },
+  {
+    "id": "user-admin-001",
+    "email": "admin@college.edu",
+    "password": "password123",
+    "name": "Admin User",
+    "role": "admin",
+    "enrollmentId": "",
+    "department": "Administration",
+    "createdAt": "2026-06-17T10:00:41.575Z"
+  },
+  {
+    "id": "8qjs3015mqhwpni0",
+    "email": "rachanrai2703@gmail.com",
+    "password": "Rachanrai@2005",
+    "name": "Rachan Rai P R",
+    "role": "student",
+    "enrollmentId": "NNM23AM048",
+    "department": "AIML",
+    "createdAt": "2026-06-17T10:07:00.408Z"
+  },
+  {
+    "id": "e0t8cebbmqhwtr41",
+    "email": "nnm23am048@nmamit.in",
+    "password": "Rachanrai@2005",
+    "name": "rachan",
+    "role": "teacher",
+    "enrollmentId": "",
+    "department": "",
+    "createdAt": "2026-06-17T10:10:11.713Z"
+  }
+]
